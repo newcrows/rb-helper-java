@@ -68,5 +68,7 @@ for(int index = 0; index < 100; index++) {
 
 /*
 4) That is the basic of every program
+    -there exist much more variable types
+    -and much more complex stuff that you need, i will write them in other tutorial
 */
 
