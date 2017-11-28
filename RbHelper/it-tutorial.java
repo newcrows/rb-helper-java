@@ -7,7 +7,7 @@ This is gonna teach you the basics of JAVA, an easy programming language
     
 Example:
     -after every instruction, you need ";"
-    -comments you do with "// comment text" or /* comment text *//"
+    -comments you do with "// comment text" or /* comment text */"
     -upper/lowercase is important
 */
     
