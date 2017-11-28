@@ -33,3 +33,5 @@ How to use
   -Auto rebirth is now runnning, check cmd for live info / error messages
   
 4) To stop Rb-Helper, simply close window
+
+YOU ARE WELCOME, KALANIA! :D
