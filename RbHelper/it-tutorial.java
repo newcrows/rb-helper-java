@@ -9,6 +9,7 @@ Example:
     -after every instruction, you need ";"
     -comments you do with "// comment text"
     -upper/lowercase is important
+    -curly braces mark area of specific code "{..}"
 */
     
 String hello = "hello"; //a string variable (i am a comment)
