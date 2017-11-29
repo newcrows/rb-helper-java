@@ -7,6 +7,12 @@ Requirements:
 -Java 8.xx RE
 
 How to use
+
+0) Download Files And Folders:
+/RbHelper/run.bat
+/RbHelper/RbHelper.jar
+/RbHelper/misc/*  (whole folder)
+
 1) Configure mBot:
   a)Client / Login Tab:
     -check "Activate automatic relogin"
